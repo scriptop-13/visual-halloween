@@ -210,7 +210,11 @@ local itemList = {
     Turkey = "Turkey2023",
     Candy = "Candy",
     ChromaBauble = "BaubleChroma",
-    ChromaConstellation = "ConstellationChroma"
+    ChromaConstellation = "ConstellationChroma",
+    XenoShot = "XenoShot",
+    XenoKnife = "XenoKnife",
+    RayGun = "RayGun",
+    AlienBeam = "AlienBeam"
 }
 
 -- 📌 Remote de crates
