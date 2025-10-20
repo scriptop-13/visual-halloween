@@ -213,8 +213,10 @@ local itemList = {
     ChromaConstellation = "ConstellationChroma",
     XenoShot = "XenoGun",
     XenoKnife = "XenoKnife",
-    RayGun = "RayGun",
-    AlienBeam = "AlienBeam"
+    RayGun = "UFOgun",
+    AlienBeam = "UFOknife",
+    ChromaAlienBeam = "UFOknifeChroma",
+    ChromaRayGun = "UFOgunChroma"
 }
 
 -- 📌 Remote de crates
